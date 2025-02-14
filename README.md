@@ -1,2 +1,5 @@
 # MARGE
-code implementation for paper: MARGE: Improving Math Reasoning with Guided Exploration
+
+We are working on providing a clear and easy-to-use code for our paper.
+We will release it by February.
+Stay tuned!
