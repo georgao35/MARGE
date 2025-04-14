@@ -314,8 +314,8 @@ if __name__ == "__main__":
     parser.add_argument("--eval", action="store_true", default=False)
     parser.add_argument("--shared_file_path", type=str, default=".distributed")
     parser.add_argument("--use_wandb", action="store_true", default=False)
-    parser.add_argument("--wandb_project", type=str, default="math q* reasoning")
-    parser.add_argument("--wandb_entity", type=str, default="math-qlearning")
+    parser.add_argument("--wandb_project", type=str, default="")
+    parser.add_argument("--wandb_entity", type=str, default="")
     args = parser.parse_args()
 
     if args.logic_all_nodes:
