@@ -2,9 +2,9 @@
 ```
 pip install requirements.txt
 pip install -e .
-``
+```
 
-training command are listed in
+training commands are listed in
 ```
 bash run.sh
 ```
