@@ -12,4 +12,10 @@ bash run.sh
 
 eval: please refer to https://github.com/QwenLM/Qwen2.5-Math
 
-Qwen2.5-Math-7B-Instruct based checkpoint: https://modelscope.cn/models/keietsu/Qwen2.5-Math-7B-MARGE
+
+
+Qwen2.5-Math-7B-Instruct based checkpoint:
+
+huggingface🤗: [link](https://huggingface.co/gao-jingyue/Qwen2.5-Math-7B-MARGE)
+
+modelscope: [link](https://modelscope.cn/models/keietsu/Qwen2.5-Math-7B-MARGE)
