@@ -9,6 +9,10 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-390/) 
 </div>
 
+## Introduction
+
+MARGE enhances mathematical reasoning by systematically exploring intermediate states derived from self-generated solutions, improving both exploration diversity and credit assignment during RL training, improving both accuracy and pass@k without external annotations.
+
 ## Run
 
 ### Installation
